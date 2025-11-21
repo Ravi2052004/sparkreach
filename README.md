@@ -1,7 +1,7 @@
 
   # SparkReach EV Charging Website
 
-  This is a code bundle for SparkReach EV Charging Website. The original project is available at https://www.figma.com/design/PUNOPWm5DHJ7VdjAt6Rf2Q/SparkReach-EV-Charging-Website.
+  This is a code bundle for SparkReach EV Charging Website. The original project is available at 
 
   ## Running the code
 
