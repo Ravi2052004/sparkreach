@@ -1,7 +1,7 @@
 
   # SparkReach EV Charging Website
 
-  This is a code bundle for SparkReach EV Charging Website. The original project is available at 
+  This is a code bundle for SparkReach EV Charging Website. 
 
   ## Running the code
 
